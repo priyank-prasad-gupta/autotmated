@@ -6,6 +6,6 @@ For Detailed Info:
 https://drive.google.com/file/d/1X4ZSaCUjvzWJd7ruxX4Hu9qiKlzTfvko/view?usp=sharing
 
 Videos: 
-https://drive.google.com/open?id=1X7ZR5eKhqtUVhjF-sSTi1KHQTQRw8C_k
-https://drive.google.com/open?id=1O_--aFTMbsfLm_KS1aMMmSgDr3szW69e
+1. https://drive.google.com/open?id=1X7ZR5eKhqtUVhjF-sSTi1KHQTQRw8C_k
+2. https://drive.google.com/open?id=1O_--aFTMbsfLm_KS1aMMmSgDr3szW69e
 
