@@ -1,7 +1,7 @@
 """
 Created on Thu Dec 12 21:13:29 2019
 
-@author: jankit,priyankprasadgupta
+@author: jankit
 """
 
 import serial  
