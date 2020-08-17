@@ -1,7 +1,7 @@
 """
-Created on Thu Dec 12 21:13:29 2019
+Created on Thu Dec 12 21:13:30 2019
 
-@author: jankit
+@author: jankit,ppgupta
 """
 
 import serial  
